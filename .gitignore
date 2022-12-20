@@ -150,3 +150,8 @@ static/
 posts/static/
 media/
 
+#env файл
+./.env
+
+#база данных
+infra/base/
