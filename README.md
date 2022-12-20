@@ -1,3 +1,5 @@
+[![Django-app workflow](https://github.com/G1lza92/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/G1lza92/yamdb_final/actions/workflows/yamdb_workflow.yml)
+
 # Групповой роект «API для YaMDb»
 ## Описание:
 Проект YaMDb собирает отзывы пользователей на произведения. Произведения делятся на категории: «Книги», «Фильмы», «Музыка».
