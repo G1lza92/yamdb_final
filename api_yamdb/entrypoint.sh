@@ -8,6 +8,6 @@ echo "Collect static files"
 python manage.py collectstatic --noinput
 
 echo "Adding redoc file"
-cp ../redoc.yaml /app/static/redoc.yaml
+cp redoc.yaml /app/static/redoc.yaml
 
 exec "$@"
